@@ -9,22 +9,11 @@ A sleek frontend application that extracts text from your PDFs and uses an AI ba
 </p>
 
 <p>
-<a href="">
-<img src="" alt="License">
-</a>
-<img src="" alt="Vanilla JS">
-<img src="" alt="Tailwind CSS">
-<a href="">
-<img src="" alt="Issues">
-</a>
-</p>
-
-<p>
-<strong><a href="">View Live Demo</a></strong>
+<strong><a href="https://simplegamez.github.io/Quiz-Generator-Frontend/">View Live Demo</a></strong>
 ·
-<a href="">Report a Bug</a>
+<a href="https://github.com/SimpleGamez/Quiz-Generator-Frontend/issues">Report a Bug</a>
 ·
-<a href="">Request a Feature</a>
+<a href="https://github.com/SimpleGamez/Quiz-Generator-Frontend/issues">Request a Feature</a>
 </p>
 </div>
 
