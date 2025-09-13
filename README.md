@@ -1,5 +1,4 @@
 <div align="center">
-<img src="" alt="Logo" width="120" />
 <h1>PDF Quiz Generator</h1>
 <p>
 <strong>Turn any PDF document into an interactive quiz in seconds. 🚀</strong>
